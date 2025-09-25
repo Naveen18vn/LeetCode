@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Linked List
 |  |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
