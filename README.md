@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
