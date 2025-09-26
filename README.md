@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
