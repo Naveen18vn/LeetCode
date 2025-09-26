@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
