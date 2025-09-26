@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen18vn/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
