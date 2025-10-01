@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Naveen18vn/LeetCode/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Naveen18vn/LeetCode/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Naveen18vn/LeetCode/tree/master/0056-merge-intervals) |
 ## Combinatorics
 |  |
 | ------- |
