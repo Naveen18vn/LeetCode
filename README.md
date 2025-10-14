@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen18vn/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Naveen18vn/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Naveen18vn/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Simulation
 |  |
 | ------- |
