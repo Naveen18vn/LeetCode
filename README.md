@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen18vn/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3336-water-bottles-ii](https://github.com/Naveen18vn/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Naveen18vn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Naveen18vn/LeetCode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen18vn/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Naveen18vn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
