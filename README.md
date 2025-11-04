@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Naveen18vn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Naveen18vn/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Naveen18vn/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naveen18vn/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen18vn/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Naveen18vn/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Naveen18vn/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Sliding Window
 |  |
 | ------- |
