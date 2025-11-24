@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naveen18vn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Naveen18vn/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen18vn/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Naveen18vn/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Naveen18vn/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naveen18vn/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen18vn/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naveen18vn/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Naveen18vn/LeetCode/tree/master/0056-merge-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naveen18vn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
 ## Combinatorics
 |  |
 | ------- |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen18vn/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
