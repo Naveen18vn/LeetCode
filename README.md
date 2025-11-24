@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Naveen18vn/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen18vn/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Naveen18vn/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Naveen18vn/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Naveen18vn/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Naveen18vn/LeetCode/tree/master/1094-car-pooling) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
