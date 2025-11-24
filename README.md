@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen18vn/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Naveen18vn/LeetCode/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen18vn/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Naveen18vn/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naveen18vn/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Naveen18vn/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Naveen18vn/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
