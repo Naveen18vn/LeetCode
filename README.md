@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Naveen18vn/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Naveen18vn/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Naveen18vn/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naveen18vn/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Naveen18vn/LeetCode/tree/master/0050-powx-n) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Naveen18vn/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Naveen18vn/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Naveen18vn/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Naveen18vn/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
