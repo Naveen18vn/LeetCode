@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Naveen18vn/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Naveen18vn/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naveen18vn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Naveen18vn/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Naveen18vn/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Naveen18vn/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naveen18vn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Naveen18vn/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Naveen18vn/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naveen18vn/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
